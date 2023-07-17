@@ -2,11 +2,13 @@ import React from 'react'
 import Nav from './nav/Nav'
 
 const Header = () => {
-  return (
-    <div>
-        <Nav></Nav>
-    </div>
-  )
+    return (
+        <header className='bg-[#0A2640]'>
+            <div className='container'>
+                <Nav></Nav>
+            </div>
+        </header>
+    )
 }
 
 export default Header
