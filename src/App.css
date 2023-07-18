@@ -22,10 +22,16 @@
     scale: 1.1;
     color: #69E6A6;
 }
-.monrape {
+.manrope {
     font-family: 'Manrope', sans-serif;
 }
 
 .open_sans {
     font-family: 'Open Sans', sans-serif;
+}
+
+.bgLogos {
+    background-image: url(./assets/Logos.png);
+    background-repeat: no-repeat;
+    background-size: contain;
 }
