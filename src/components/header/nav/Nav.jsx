@@ -33,7 +33,7 @@ const Nav = () => {
                 />
                 {
                     nav ? (
-                        <ul className='flex flex-col gap-[15px] items-center border-gray-400 border-t-[1px] fixed left-0 w-full bg-[#0a2640] pb-[20px] mt-5 pt-5'>
+                        <ul className='flex flex-col gap-[15px] items-center border-gray-400 border-t-[1px] border-b fixed left-0 w-full bg-[#16334e] pb-[20px] mt-5 pt-5'>
                             <li className='font-[600] open_sans cursor-pointer hover:scale-[1.05] hover:text-[#69E6A6]'>Product</li>
                             <li className='font-[600] open_sans cursor-pointer hover:scale-[1.05] hover:text-[#69E6A6]'>Services</li>
                             <li className='font-[600] open_sans cursor-pointer hover:scale-[1.05] hover:text-[#69E6A6]'>About</li>

@@ -10,8 +10,8 @@ const Header = () => {
         <header className='bg-[#0A2640] flex flex-col md:gap-[56px] gap-[35px]'>
             <div className='container'>
                 <Nav></Nav>
-                <div className='pb-[64px]'>
-                    <div className='md:pt-[64px] md:pb-[56px] py-[20px] mx-[20px] text-white flex flex-col lg:flex-row lg:justify-between items-center gap-6'>
+                <div className='sm:pb-[64px]'>
+                    <div className='md:pt-[64px] md:pb-[56px] mb-[20px] py-[20px] mx-[20px] text-white flex flex-col lg:flex-row lg:justify-between items-center gap-6'>
                         <div className='flex flex-col justify-center lg:max-w-[567px] w-[100%]'>
                             <div>
                                 <p className='md:text-[48px] text-[30px] font-[400] manrope mb-[16px]'>Save time by building  fast with Boldo Template </p>
